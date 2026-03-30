@@ -1,0 +1,86 @@
+ {
+  "success": true,
+  "message": "Services retrieved successfully",
+  "data": [
+    {
+      "id": "1",
+      "name": "Basic Car Wash",
+      "description": "Exterior hand wash using premium shampoo, wheel cleaning, and microfiber drying.",
+      "price": 500,
+      "img": "https://inoutcarwash.com/wp-content/uploads/2024/08/Untitled-design-5.jpg",
+      "duration": 30
+    },
+    {
+      "id": "2",
+      "name": "Deluxe Car Wash",
+      "description": "Exterior wash, tire cleaning, dashboard wipe, and interior vacuum cleaning.",
+      "price": 900,
+      "img": "https://5.imimg.com/data5/WX/SM/GLADMIN-12923160/deluxe-wash-500x500.jpg",
+      "duration": 45
+    },
+    {
+      "id": "3",
+      "name": "Premium Car Wash",
+      "description": "Full exterior wash, interior vacuum, glass cleaning, and tire shine.",
+      "price": 1200,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSshRRvi20Qho2G_EAoHkuKZNpZBlWsJBQagA&s",
+      "duration": 60
+    },
+    {
+      "id": "4",
+      "name": "Interior Deep Cleaning",
+      "description": "Deep cleaning of seats, carpets, dashboard, and odor removal treatment.",
+      "price": 2000,
+      "img": "https://www.uforu.in/cdn/shop/files/auto-detailing-car-interior-eps-2048x1367-1-1536x1025.jpg?v=1753714228",
+      "duration": 90
+    },
+    {
+      "id": "5",
+      "name": "Engine Bay Cleaning",
+      "description": "Safe engine degreasing and cleaning to remove dust and oil deposits.",
+      "price": 1500,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqDi3wpKnJ5GGqYhhwnppWTaW3EoNYDZ21Vw&s",
+      "duration": 60
+    },
+    {
+      "id": "6",
+      "name": "Car Waxing",
+      "description": "High-quality wax application for deep gloss and paint protection.",
+      "price": 1800,
+      "img": "https://www.simoniz.uk/wp-content/uploads/2023/05/iStock-1273682054.jpg",
+      "duration": 75
+    },
+    {
+      "id": "7",
+      "name": "Machine Polishing",
+      "description": "Professional machine polish to remove light scratches and swirl marks.",
+      "price": 2500,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7yLg7YETklYMHPL-X5ob1OSZCOiyMDjH3Kg&s",
+      "duration": 120
+    },
+    {
+      "id": "8",
+      "name": "Full Car Detailing",
+      "description": "Complete interior and exterior detailing including polish and wax.",
+      "price": 4000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEfMIS0gwZszm9kEXdSmfjnwWiCP4eUPcpYw&s",
+      "duration": 180
+    },
+    {
+      "id": "9",
+      "name": "Headlight Restoration",
+      "description": "Restore cloudy headlights to improve visibility and appearance.",
+      "price": 1000,
+      "img": "https://s25180.pcdn.co/wp-content/uploads/2020/12/AdobeStock_249301747.jpeg",
+      "duration": 40
+    },
+    {
+      "id": "10",
+      "name": "Ceramic Coating",
+      "description": "Long-lasting ceramic coating for superior shine and paint protection.",
+      "price": 8000,
+      "img": "https://www.raynofilm.com/wp-content/uploads/shutterstock_2232964789-1536x1024.jpg",
+      "duration": 240
+    }
+  ]
+}

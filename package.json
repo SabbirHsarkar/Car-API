@@ -1,0 +1,6 @@
+ {
+  "name": "car-wash-api",
+  "version": "1.0.0",
+  "description": "Car wash services API",
+  "main": "api/services.js"
+}
